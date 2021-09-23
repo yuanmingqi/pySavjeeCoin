@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://github.com/yuanmingqi/pySavjeeCoin/tree/main/src/logo.png" alt="Project logo"></a>
+ <img src="https://github.com/yuanmingqi/pySavjeeCoin/blob/main/src/logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">pySavjeeCoin</h3>
